@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.5, 18.75" name="pubs_LINQ">
+  <DataContextMoniker Name="/pubs_LINQDataContext" />
+  <nestedChildShapes>
+    <classShape Id="cfd8be58-a840-416f-9a90-ac15ea1aa1c4" absoluteBounds="3.5, 10.125, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/pubs_LINQDataContext/title" />
+      <nestedChildShapes>
+        <elementListCompartment Id="04afe6b1-86df-4d41-94a2-09882da53701" absoluteBounds="3.515, 10.585, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="be4a7e6f-4aa5-45d8-aa4b-ba6e8d02ec31" absoluteBounds="3.5, 14.25, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/pubs_LINQDataContext/author" />
+      <nestedChildShapes>
+        <elementListCompartment Id="23d7fe0c-3baf-45c0-aee9-b52d7ed53f50" absoluteBounds="3.515, 14.71, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6f06a9c7-961c-4d5e-a083-7364f3903bbc" absoluteBounds="9.25, 16.625, 2, 1.7708968098958309">
+      <DataClassMoniker Name="/pubs_LINQDataContext/discount" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cc90ccf3-1e08-4d8e-9106-5f5f6b0d8dd6" absoluteBounds="9.265, 17.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c95b73ea-8fe5-474a-a885-5032f31ac613" absoluteBounds="6.5, 6.125, 2, 2.3478011067708326">
+      <DataClassMoniker Name="/pubs_LINQDataContext/employee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="349fff26-8f22-4cdd-8386-8a5bec70987a" absoluteBounds="6.515, 6.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4870ff89-8c0c-4491-bb32-b36357323983" absoluteBounds="3.75, 7.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/pubs_LINQDataContext/job" />
+      <nestedChildShapes>
+        <elementListCompartment Id="583c214d-9cf5-4023-8ae2-89d0e55ed706" absoluteBounds="3.765, 7.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d873f69f-4520-4287-becd-e630cc8e76e9" absoluteBounds="3.5, 4.875, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/pubs_LINQDataContext/pub_info" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d8c26d92-80ec-4a85-bea2-5411bb30ed70" absoluteBounds="3.515, 5.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ef196144-b17f-4924-97db-31004a094a1c" absoluteBounds="0.75, 6.5, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/pubs_LINQDataContext/publisher" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6f4d9ae4-4ec7-4ef2-8bfc-b9af85066673" absoluteBounds="0.765, 6.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="89173fbb-3cb8-44a1-9658-1ff01cfbae7b" absoluteBounds="6.25, 10.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/pubs_LINQDataContext/roysched" />
+      <nestedChildShapes>
+        <elementListCompartment Id="24bce6cd-d436-4ed2-8013-9b47861e7780" absoluteBounds="6.265, 11.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="53451466-3912-4526-9502-50ee22e6b203" absoluteBounds="9.25, 10.5, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/pubs_LINQDataContext/sale" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5c04c71a-e541-4458-830a-7dd6ef1c6795" absoluteBounds="9.265, 10.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6b0365bd-d8ae-4f43-8414-898bec374026" absoluteBounds="6.5, 16.5, 2, 1.9631982421875023">
+      <DataClassMoniker Name="/pubs_LINQDataContext/store" />
+      <nestedChildShapes>
+        <elementListCompartment Id="216b975c-a58b-4d8c-a5fc-4067193a0126" absoluteBounds="6.515, 16.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="21bcd54d-fa64-4fc5-a591-ab722dcb44bf" absoluteBounds="6.25, 13.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/pubs_LINQDataContext/titleauthor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d6c83de9-869c-4558-83d3-0eae53c0f555" absoluteBounds="6.265, 14.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.75 : 7.98640055338542); (6.5 : 7.98640055338542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/pubs_LINQDataContext/job/job_employee" />
+      <nodes>
+        <classShapeMoniker Id="4870ff89-8c0c-4491-bb32-b36357323983" />
+        <classShapeMoniker Id="c95b73ea-8fe5-474a-a885-5032f31ac613" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 8.27089680989583); (1.75 : 11.4912019856771); (3.5 : 11.4912019856771)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/pubs_LINQDataContext/publisher/publisher_title" />
+      <nodes>
+        <classShapeMoniker Id="ef196144-b17f-4924-97db-31004a094a1c" />
+        <classShapeMoniker Id="cfd8be58-a840-416f-9a90-ac15ea1aa1c4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.96875); (6.5 : 6.96875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/pubs_LINQDataContext/publisher/publisher_employee" />
+      <nodes>
+        <classShapeMoniker Id="ef196144-b17f-4924-97db-31004a094a1c" />
+        <classShapeMoniker Id="c95b73ea-8fe5-474a-a885-5032f31ac613" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.7031225); (3.59375 : 6.7031225); (3.59375 : 6.2612939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/pubs_LINQDataContext/publisher/publisher_pub_info" />
+      <nodes>
+        <classShapeMoniker Id="ef196144-b17f-4924-97db-31004a094a1c" />
+        <classShapeMoniker Id="d873f69f-4520-4287-becd-e630cc8e76e9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 11.5392976888021); (6.25 : 11.5392976888021)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/pubs_LINQDataContext/title/title_roysched" />
+      <nodes>
+        <classShapeMoniker Id="cfd8be58-a840-416f-9a90-ac15ea1aa1c4" />
+        <classShapeMoniker Id="89173fbb-3cb8-44a1-9658-1ff01cfbae7b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 10.59375); (9.25 : 10.59375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/pubs_LINQDataContext/title/title_sale" />
+      <nodes>
+        <classShapeMoniker Id="cfd8be58-a840-416f-9a90-ac15ea1aa1c4" />
+        <classShapeMoniker Id="53451466-3912-4526-9502-50ee22e6b203" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 17.5104484049479); (9.25 : 17.5104484049479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/pubs_LINQDataContext/store/store_discount" />
+      <nodes>
+        <classShapeMoniker Id="6b0365bd-d8ae-4f43-8414-898bec374026" />
+        <classShapeMoniker Id="6f06a9c7-961c-4d5e-a083-7364f3903bbc" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.40625 : 16.5); (8.40625 : 12.4271468098958); (9.25 : 12.4271468098958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/pubs_LINQDataContext/store/store_sale" />
+      <nodes>
+        <classShapeMoniker Id="6b0365bd-d8ae-4f43-8414-898bec374026" />
+        <classShapeMoniker Id="53451466-3912-4526-9502-50ee22e6b203" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 14.7892976888021); (6.25 : 14.7892976888021)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/pubs_LINQDataContext/author/author_titleauthor" />
+      <nodes>
+        <classShapeMoniker Id="be4a7e6f-4aa5-45d8-aa4b-ba6e8d02ec31" />
+        <classShapeMoniker Id="21bcd54d-fa64-4fc5-a591-ab722dcb44bf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 12.8574039713542); (5.875 : 13.2324039713542); (5.875 : 14.238396844401); (6.25 : 14.238396844401)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/pubs_LINQDataContext/title/title_titleauthor" />
+      <nodes>
+        <classShapeMoniker Id="cfd8be58-a840-416f-9a90-ac15ea1aa1c4" />
+        <classShapeMoniker Id="21bcd54d-fa64-4fc5-a591-ab722dcb44bf" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

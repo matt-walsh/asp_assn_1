@@ -1,0 +1,9 @@
+WEBD300Assn1 - Known Bugs
+
+->While in "edit mode", the GridView stretches past the side of the page
+
+->.skin files are broken. Style changes are not applied on pages, except in specific cases
+
+->Chart has serious style issues. Impossible to understand in most cases.
+
+->*id(s) not associated with thier respected tables (eg pubId will be shown where the publishers name should)
